@@ -1,3 +1,3 @@
-# vbs-Windows
+# Windows
 
 Virus falso de ransomware para Windows
